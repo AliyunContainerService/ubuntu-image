@@ -1,6 +1,6 @@
 # Ubuntu Docker Image with Aliyun Mirror
 ================
-This image is built from the official ubuntu:14.04 with [Aliyun mirror](http://mirrors.aliyun.com/).
+This Docker image is built from the official Ubuntu image with [Aliyun mirror](http://mirrors.aliyun.com/).
 
 Contributors
 -------------------
